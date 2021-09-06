@@ -13,6 +13,8 @@
 ## About me
 
 ## Importants links
-linkedin.com/in/praphullsoftdev
+Linkedin - <a href="linkedin.com/in/praphullsoftdev">linkedin.com/in/praphullsoftdev</a>
 
-github.com/KPRAPHULL
+Github - <a href="github.com/KPRAPHULL">github.com/KPRAPHULL</a>
+
+Kaggle - <a href="kaggle.com/praphull333">kaggle.com/praphull333</a>
