@@ -1,17 +1,18 @@
-# KPRAPHULL-Inventory-Management-System-Elite-techno-group-Internship
+# Inventory Management System( Internship project at "Elite techno group" )
 
-# Overview
+## Overview
 
-# Brief Description
+## Brief Description
 
-# All Files file
+## All Files file
 
-# Features
+## Features
 
-# Product Features
+## Product Features
 
-# About me
+## About me
 
-# Importants links
+## Importants links
 linkedin.com/in/praphullsoftdev
-github.com/KPRAPHULL/KPRAPHULL
+
+github.com/KPRAPHULL
