@@ -1,1 +1,3 @@
-Help file
+These 3 image file generated based on 2 case 
+1. User required item is greater than available item
+2. User required item is less than item
