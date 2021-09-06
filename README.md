@@ -1,2 +1,17 @@
 # KPRAPHULL-Inventory-Management-System-Elite-techno-group-Internship
-It uses to store product details and handle it
+
+# Overview
+
+# Brief Description
+
+# All Files file
+
+# Features
+
+# Product Features
+
+# About me
+
+# Importants links
+linkedin.com/in/praphullsoftdev
+github.com/KPRAPHULL/KPRAPHULL
